@@ -1,4 +1,3 @@
-
 :root{--bg:#090909;--panel:#141414;--gold:#c8a96b;--gold2:#ead7a8;--text:#f4f1ea;--muted:#b9b3a7;--line:#2b2925}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,Arial,sans-serif;line-height:1.65}
 a{color:inherit;text-decoration:none}.wrap{width:min(1120px,92%);margin:auto}
